@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pablo Ramirez
 
-#### I'm an Aerospace Systems Engineer and student of Telecommunications Engineering
+#### I'm an Aerospace and Telecommunications Engineer
 
 🔭 I’m currently working on a **Python based UAV simulator**: [pyUAVsim](https://github.com/pabloramesc/pyUAVsim)
 
